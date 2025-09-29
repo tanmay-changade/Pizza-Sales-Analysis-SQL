@@ -1,6 +1,6 @@
 # Pizza Sales Data Analysis🧑‍💻: Comprehensive Performance Metrics and Customer Insights
 <h2>Link🔗:</h2>
-<a href="https://www.canva.com/design/DAGo1ApRWxc/0AiXL_H685R6pZXhCDEOGQ/view?utm_content=DAGo1ApRWxc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2034768c7f" target="__blank">Please Click Here to see queries and output</a>
+<a href="https://www.canva.com/design/DAGo1ApRWxc/0AiXL_H685R6pZXhCDEOGQ/view?utm_content=DAGo1ApRWxc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2034768c7f" target="_blank">Please Click Here to see queries and output</a>
 <h2>Objective & Scope :</h2>
 <b>
 ☑️Objective: The primary objective of this project is to use SQL (Structured Query Language) to analyze a relational database of pizza sales data.<br>
